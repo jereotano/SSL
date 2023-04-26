@@ -1,5 +1,5 @@
 # SSL
-h1 Sintaxis y Semántica de los Lenguajes
+h2. Sintaxis y Semántica de los Lenguajes
 
 + Curso: k2054
 + Año de cursada: 2023
